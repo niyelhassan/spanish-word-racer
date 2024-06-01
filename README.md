@@ -58,13 +58,12 @@ Spanish Word Racer is an educational game designed to help players enhance their
 
 - `index.html`: The main HTML file.
 - `main.js`: Contains the game logic using the Phaser framework.
-- `styles.css`: Contains the CSS styles for the game.
-- `assets/`: Directory containing images and other assets used in the game.
+- `images/`: Directory containing images and other assets used in the game.
   - `start.png`: Start button image.
   - `instructions.png`: Instructions button image.
-  - `road4.png`: Background image of the road.
+  - `road.png`: Background image of the road.
   - `car.png`: Car sprite.
-- `words.json`: Contains the Spanish words and their corresponding English translations.
+- `question-answer.json`: Contains the Spanish words and their corresponding English translations.
 
 ## Code Overview
 
