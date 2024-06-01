@@ -2,6 +2,18 @@
 
 Spanish Word Racer is an educational game designed to help players enhance their Spanish vocabulary while navigating a car through a virtual road. The game requires players to collect the correct Spanish words corresponding to the questions displayed, avoiding incorrect words to maintain their score.
 
+## Content
+
+**Vocab** (93 words): Lección 1, 2, and 3 of "Descubre 2" 
+
+**Concepts** (60 questions; 10 for each):
+- Por vs Para
+- Relative pronouns
+- Imperfect tense verbs
+- Indefinite and negative words
+- Comparisons
+- Superlatives
+
 ## Features
 
 - **Interactive Gameplay**: Navigate a car using arrow keys to collect words.
