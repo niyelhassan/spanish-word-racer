@@ -373,7 +373,7 @@ class GameScene extends Phaser.Scene {
 
     setRandomObstacleTimer() {
         // Set a random delay for the next obstacle
-        const delay = Phaser.Math.Between(500, 1500);
+        const delay = Phaser.Math.Between(1000, 2000);
         this.time.addEvent({
             delay: delay,
             callback: this.addObstacle,
